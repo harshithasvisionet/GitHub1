@@ -10,6 +10,7 @@ namespace GitHub1
             if (i == 4)
             {
                 Console.WriteLine(i);
+                Console.WriteLine("is the number");
             }
         }
     }
